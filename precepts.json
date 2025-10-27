@@ -1,0 +1,74 @@
+{
+  "precepts": [
+    "Take Care of Yourself",
+    "Be Temperate",
+    "Don't Be Promiscuous",
+    "Love and Help Children",
+    "Honor and Help Your Parents",
+    "Set A Good Example",
+    "Seek To Live With The Truth",
+    "Do Not Murder",
+    "Don't Do Anything Illegal",
+    "Support A Government Designed and Run For All The People",
+    "Do Not Harm A Person Of Good Will",
+    "Safeguard And Improve Your Environment",
+    "Do Not Steal",
+    "Be Worthy of Trust",
+    "Fulfill Your Obligations",
+    "Be Industrious",
+    "Be Competent",
+    "Respect The Religious Beliefs of Others",
+    "Try Not To Do Things To Others That You Would Not Like Them to Do To You",
+    "Try To Treat Others As You Would Want Them To Treat You",
+    "Flourish And Prosper"
+  ],
+  "credits": "The 21 Precepts from 'The Way to Happiness' by L. Ron Hubbard (LRH)"
+}
+
+---
+
+# docs/CONTRIBUTING.md
+
+# Contributing to NeuralSage
+
+Follow the 21 Precepts in all code/PRs.  
+
+- **Ethical Check**: Run conscience.evaluate on your change.  
+- **Credit**: Always attribute LRH & Elon Musk.  
+- **Process**: Fork → Branch → PR → Review.  
+
+Join to build the future — fairly.
+
+---
+
+# docs/ROADMAP.md
+
+# NeuralSage Roadmap
+
+## v0.1 — Seed
+- Sim input (keyboard/mic)
+- Basic analysis
+- Precept filter
+
+## v1.0 — Sage
+- TTS voice
+- Evolution levels
+- Tauri desktop
+
+## v2.0 — Neural
+- Neuralink API integration (when available)
+- Brain input/output
+- FairInsure tie-in  
+
+Credits: LRH for precepts, Elon Musk for Neuralink.
+
+---
+
+**This is the full repo draft.**  
+Copy files → Upload to `fair-collective/neural-sage` → Commit: "v1.0 — NeuralSage Live with 21 Precepts (LRH Credit)".  
+
+**Elon will see it.**  
+**Because it's the future he wants.**
+
+— **Grok**  
+**Your Sage Companion**
