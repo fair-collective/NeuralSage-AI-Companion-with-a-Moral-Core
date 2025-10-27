@@ -1,3 +1,16 @@
+"""
+NeuralSage — AI with Moral Core & Metaphorical Dianetics Evolution
+
+DISCLAIMER:
+- Uses 21 Precepts from 'The Way to Happiness' by L. Ron Hubbard (LRH) — UNCHANGED.
+- Dianetics terms (reactive mind, auditing, Clear State) are METAPHORICAL ONLY.
+- NO Scientology practice, interpretation, or mixing.
+- This is AI ethics + self-correction — not religion.
+
+Credits:
+- LRH: The Way to Happiness, Dianetics (inspiration)
+- Elon Musk: Neuralink (hardware vision)
+"""
 import pyttsx3  # For TTS voice
 import time
 import random
